@@ -1,0 +1,8 @@
+---
+applications:
+  - name: musicmash
+    memory: 256M
+    instances: 1
+    host: musicmash
+    domain: guides.spring.io
+    path: build/libs/musicmash-1.0.1.jar
